@@ -1,0 +1,22 @@
+{
+  "name": "pino-zip-last",
+  "version": "0.1.0",
+  "description": "Pino transport that zip the last log file in a directory",
+  "author": "Mio Nekoya <admin@mio9.sh>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mio9/pino-zip-last"
+  },
+  "keywords": [
+    "pino",
+    "transport",
+    "zip",
+    "log"
+  ],
+  "module": "index.mjs",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
